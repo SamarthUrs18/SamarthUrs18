@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamarthUrs18
-- 👀 I’m interested in AI, java, c++, python, and swift.
-- 🌱 I’m currently learning swift
+- 👀 I’m interested in AI, java, c++, python
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on android studio project
 - 📫 contact me at urssamarth17@gmail.com
