@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://twitter.com/samarth_urs" target="blank"><img src="https://img.shields.io/twitter/follow/samarth_urs?logo=twitter&style=for-the-badge" alt="samarth_urs" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio website](samarthurs18.github.io)
+- 🔭 I’m currently working on <a href="samarthurs18.github.io">samarthurs18.github.io</a>
 
 - 🌱 I’m currently learning **JavaScript and Java**
 
-- 👨‍💻 All of my projects are available at [samarthurs18.github.io](samarthurs18.github.io)
+- 👨‍💻 All of my projects are available at [samarthurs1samarthurs18.github.io)
 
-- 📝 I regularly write articles on [samarthurs18.github.io/blogs](samarthurs18.github.io/blogs)
+- 📝 I regularly write articles on <a href="samarthurs18.github.io/blogs">samarthurs18.github.io/blogs</a>
 
 - 💬 Ask me about **html, css, java, python, c, c++.**
 
 - 📫 How to reach me **urssamarth17@gmail.com**
 
-- 📄 Know about my experiences [samarthurs18.github.io/resume](samarthurs18.github.io/resume)
+- 📄 Know about my experiences <a href="samarthurs18.github.io/resume">samarthurs18.github.io/resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
